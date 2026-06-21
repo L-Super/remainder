@@ -6,8 +6,10 @@
 *.swp
 .buildlog/
 .history
+.DS_Store
 
-
+# IntelliJ related
+.idea/
 
 # Flutter repo-specific
 /bin/cache/
